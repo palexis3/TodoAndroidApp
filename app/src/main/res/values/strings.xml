@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ListTodo</string>
+    <string name="enter_hint">Enter a note</string>
+    <string name="button_label">Button</string>
+    <string name="title_activity_edit_item">EditItemActivity</string>
+    <string name="edit_line_label">Edit Item</string>
+</resources>
