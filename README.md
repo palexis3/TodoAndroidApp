@@ -23,4 +23,4 @@ Here's a walkthrough of implemented user stories:
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
-Took sometime to understand how to return intent data back to main activity once I was finishing editing.
+It took me some time to understand how to return intent data back to the main activity once I was finishing editing.
